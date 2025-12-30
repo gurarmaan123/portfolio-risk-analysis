@@ -48,9 +48,9 @@ This analysis highlights how diversification and compounding influence long-term
 ---
 
 ## Visualization
-![Equity Curves](01_equity_curve.png)
-![Monte Carlo Paths](02_monte_carlo_paths.png)
-![Monte Carlo Histogram](03_monte_carlo_histogram.png)
+![Equity Curves](02_equity_curve.png)
+![Monte Carlo Paths](03_monte_carlo_paths.png)
+![Monte Carlo Histogram](04_monte_carlo_histogram.png)
 
 ---
 
